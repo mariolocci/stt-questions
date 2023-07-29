@@ -1,0 +1,113 @@
+PS4 supporta i giochi usati?
+Sì, così come avviene su PS3 oggi, PS4 non avrà alcuna restrizione sull’uso di giochi su disco usati. Quando un giocatore compra un disco PS4 ha il diritto di usare quella copia del gioco, inclusa la possibilità di darlo indietro al negoziante, venderlo ad un’altra persona, prestarlo ad un amico o tenerlo per sempre. In più, gli utenti non dovranno attivare i loro giochi o pagare una tassa-usato per giocare con i dischi di gioco usati su PS4.
+
+I titoli PS4 avranno un Online Pass?
+I titoli First-party di PS4 (giochi sviluppati da Sony Computer Entertainment) non avranno un Online Pass. Per quanto riguarda i titoli Terze parti, PlayStation non imporrà una strategia ai distributori sull’Online Pass. Tuttavia, gran parte delle Terze parti hanno escluso l’uso dell’Online Pass, quindi è molto probabile che questo metodo non comparirà su PS4.
+
+Gli utenti PS4 potranno prestare e ricevere in prestito i giochi?
+Sì, possono prestare e ricevere in prestito i giochi su disco senza alcuna restrizione.
+
+Gli utenti PS4 potranno scambiare e vendere i giochi?
+Sì, possono scambiare e vendere i giochi su disco liberamente.
+
+PS4 ha bisogno di una connessione ad internet permanente per far funzionare i giochi?
+No, PS4 non richiede una connessione permanente per far funzionare i giochi, quindi i titoli single player saranno giocabili in qualsiasi momento. Per il multiplayer online, è richiesta una connessione ad internet e un abbonamento PlayStation Plus.
+
+PS4 ha bisogno di connettersi occasionalmente ad internet?
+Se escludiamo l’aggiornamento di sistema 1.50 e l'attivazione una-tantum per vedere i film in Blu-ray e DVD, PS4 non richiede una connessione online per autenticare o far partire i giochi su disco. Tuttavia, alcune features avanzate di PS4 avranno bisogno di una connessione, come lo streaming del gameplay dei giochi PS4, servizi di intrattenimento e altro.
+
+PlayStation effettuerà qualche tipo di autenticazione sulla versione disco dei giochi PS4?
+No, non è richiesto alcun tipo di autenticazione per le versioni su disco dei giochi PS4.
+
+I giochi PS4 avranno blocchi regionali?
+Le versioni digitali e quelle su disco non avranno blocchi regionali, tuttavia PlayStation consiglia di acquistare i titoli nel proprio territorio per godere della migliore esperienza di gioco possibile e dell’assistenza del costumer service. In alcune circostanze, un distributore può decidere di mettere un blocco regionale per ragioni proprie, ma Sony Computer Entertainment si aspetta che questi casi siano limitati.
+
+PS4 sarà in grado di scaricare automaticamente aggiornamenti di sistema?
+Sì, i software di sistema verranno scaricati automaticamente per tutti gli utenti.
+
+PS4 potrà scaricare automaticamente le patch dei giochi?
+Sì, tutti gli utenti PS4 potranno scaricare automaticamente ed installare le patch di gioco su PS4. In più, i membri PlayStation Plus potranno far partire i download automatici anche quando il sistema è in modalità strandby.
+
+Gli utenti potranno personalizzare la frequenza e il tempo di rilevamento automatico, download ed installazione?
+No.
+
+Gli utenti potranno continuare a giocare su PS4 mentre una patch di gioco viene rilevata, scaricata ed installata?
+Gli utenti potranno continuare a giocare su PS4 mentre una patch viene rilevata e scaricata automaticamente. Ma, a seconda del gioco, gli utenti potrebbero non essere in grado di sfruttare le funzioni online fin quando tutti i dati della patch non saranno installati. Per installare una patch, l’utente dovrà chiudere il gioco.
+
+PS4 dovrà essere sempre accesa per scaricare una patch di gioco in automatico?
+No, i membri PlayStation Plus potranno godere di questa funzione anche con la PS4 in standby.
+
+Potrò avere accesso alla mia collezione di giochi digitali da qualsiasi PS4?
+Sì, potrete effettuare il log in al vostro account SEN in qualsiasi PS4 connessa ad internet, accedere ai vostri contenuti digitali PS4, la lista amici e i trofei. Al di fuori della vostra console “primaria”, potete effettuare un login ad una sola console per volta.
+
+Cosa accade a quel contenuto quando smetto di giocare?
+Una volta che l’utente effettua il log out, quel contenuto non è più disponibile.
+
+E’ possibile effettuare il login di più utenti su una sola PS4?
+Sì, come avviene su PS3, gli utenti PS4 possono passare da un account SEN all’altro su una sola PS4.
+
+E’ possibile effettuare il login di più utenti su una sola PS4 contemporaneamente?
+Sì, fino a quattro utenti possono essere connessi simultaneamente su una sola PS4.
+
+E’ possibile sfruttare la sincronizzazione automatica dei trofei e i servizi push di download da parte di più utenti?
+No.
+
+PS4 include un browser web?
+Sì, PS4 ha un browser web, basato su tecnologia webkit che lo rende più veloce e compatibile rispetto al browser di PS3.
+
+Cosa ci sarà nella scatola di PS4 al lancio?
+Troverete un sistema PS4 con hardisk da 500GB, un controller wireless DUALSHOCK 4, un cavo micro-USB per caricare il controller DUALSHOCK 4, un headset mono per la chat vocale, un cavo di alimentazione (1,5 m) e un cavo HDMI (2,0 m).
+
+Quali porte input/output e quali connessioni supporta PS4?
+Uscita HDMI, uscita digitale (audio digitale), Ethernet, due porte USB 3.0, e un connettore ausiliario riservato a PlayStation Camera. PS4 integra inoltre una scheda 802.11 b/g/n Wi-Fi per la connessione senza fili e il Bluetooth 2.1 per connettere senza fili il DUALSHOCK 4.
+
+PS4 richiede la presenza di un adattatore di corrente esterno?
+Il sistema PS4 è stato progettato con un adattatore di corrente interno, quindi non ha alcun “blocco” esterno.
+
+Gli utenti potranno sostituire il disco da 500GB di PS4? Quali tagli sono supportati?
+Gli utenti Ps4 potranno sostituire il disco standard di PS4. Il disco di sistema PS4 è utilizzato per immagazzinare i giochi scaricati, i contenuti video, i salvataggi di gioco, i filmati di gameplay, le immagini e altro.
+
+Quali tipi di hardisk utilizza PS4?
+Il sistema PS4 è equipaggiato con un hard drive 5400 RPM SATA II. Gli utenti potranno installare un nuovo hard drive solo se corrisponde a questi standard, non è più sottile di 9,5 mm ed è capiente più di 160GB.
+
+Gli utenti potranno connettere un hard drive esterno per espandere la memoria del sistema PS4?
+No, questa caratteristica non è supportata da PS4.
+
+Quali sono le dimensioni fisiche del sistema PS4?
+Il sistema PS4 misura approssimativamente 275 (larghezza) × 53 (altezza) × 305 mm (lunghezza), escludendo le sporgenze più larghe. Pesa approssimativamente 2,8 kg.
+
+Quali colori saranno disponibili al lancio?
+Il modello di lancio avrà il colore “Jet Black”.
+
+Posso mettere PS4 in verticale, come avviene attualmente con PS3?
+Sì, PS4 può essere usata sia in orizzontale che in verticale. Nei territori PAL, il Vertical Stand costerà €19,99.
+
+In termini di performance hardware, come si comporta PS4 rispetto a PS3?
+PS4 ha una potenza computazionale 10 volte superiore a quella di PS3. Il sistema gode di 8GB di RAM GDDR5 ad alta velocità, una CPU eight core X86 e un potente processore grafico. Parlando in generale, il sistema PS4 permetterà agli sviluppatori di costruire mondi più grandi e dettagliati rispetto a quanto avviene con PS3. Grazie al potente hardware di PS4 sarà possibile avere modelli di luce più realistici, fisica ed effetti particellari più complessi, animazioni dei personaggi più varie e realistiche, ambienti e texture più definiti, risoluzione a schermo più alta (fino a 1080p), frame rate più alto (fino a 60 fps), match multiplayer più grandi e molto altro.
+
+Cosa potete rivelare del processore grafico di PS4 (GPU)?
+Il processore grafico di PS4 (GPU) contiene un array unificato di 18 unità computazionali, che insieme generano 1,84 teraflop di potere computazionale che può essere applicato liberamente alla grafica, alle task di simulazione o ad un misto delle due. PS4 è equipaggiata con 8GB di memoria di sistema unificata che rende la creazione dei giochi più facile ed aumenta la ricchezza dei contenuti realizzabili. La memoria gode di GDDR5 ad alta velocità e fornisce al sistema un totale di banda pari a 176GB al secondo, garantendo un ulteriore spinta alle performance grafiche.
+
+Quando avete iniziato a sviluppare il sistema PS4?
+Abbiamo iniziato la discussione concettuale di PS4 cinque anni fa, nel 2008.
+
+Chi è a capo del progetto PS4?
+Il sistema PS4 è il frutto dello sforzo collettivo di SCEI Engineering group arricchito dai feedback delle squadre di sviluppo degli Worldwide Studios, il Sony Computer Entertainment’s corporate design center e altri. Il veterano sviluppatore di videogiochi Mark Cerny è l’architetto di sistema di PS4.
+
+Quali risoluzioni supporta Ps4?
+PS4 supporta 480p, 720p, 1080i e 1080p video standard via HDMI.
+
+PS4 supporterà il 4K per i video e i giochi?
+Il supporto all’alta risoluzione 4K per le immagini fisse e i film è in considerazione, ma non abbiamo ulteriori dettagli da condividere ad oggi. Il sistema PS4 attualmente non supporta il 4K per i giochi.
+
+Posso usare la mia TV a definizione standard con PS4?
+La risoluzione dell’uscita HDMI di PS4 cambia automaticamente in base alla TV o al monitor connesso. Ovviamente PS4 è stata sviluppata per fornire giochi con grafica ricca e ad alta fedeltà, ottimizzati per essere goduti sulle TV HD.
+
+PS4 ha un’uscita audio video analogica?
+No, Ps4 trasmette audio e video tramite HDMI, un connettore digitale disponibile su gran parte delle TV HD. In aggiunta, PS4 supporta l’audio 5.1 o 7.1 tramite uscita digitale (ottica).
+
+Devo resettare i miei settaggi video se cambio TV, come avviene con PS3?
+Questo processo non sarà necessario su PS4.
+
+PS4 supporterà contenuti 3D, tra cui giochi in 3D stereoscopico?
+Tecnicamente, PS4 supporterà il gameplay 3D al lancio anche se non ci sono titoli di lancio 3D compatibili.

@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hibernate search </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<script
+	src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<body>
+<h2>Hibernate search in action</h2>
+<p>Insert text</p>
+				<form ng-app="myApp" ng-controller="formController">		
+				 <input type="text" name="search" value="ps4 questions" ng-model="contentinput">
+                 <button id="searchtext" type="button"  ng-click=searchText()>search</button>
+						<div ng-if="sw=='searching'">
+							<table class=table>
+								<tbody>
+									<tr ng-repeat="x in documents">
+										<td>{{ x.title}}</td>
+										<td>{{ x.body}}</td>
+									</tr>
+								</tbody>
+							</table>
+					   </div>
+						
+				</form>
+			
+</body>
+<script>
+	var app = angular.module('myApp', []);
+	app.controller('formController', function($scope, $http) {
+		$scope.searchText = function() {
+			$scope.sw = 'searching';
+			var doc = $scope.contentinput;
+			$http.get("rest/semtech/searchText?text="+ doc).then(function(response) {
+				$scope.documents = response.data;
+			})
+
+		};
+		$scope.classifyText = function() {
+			$scope.sw = 'classify';
+			var doc = {
+				title : "",
+				body : $scope.contentform
+			};
+			$http.post("rest/semtech/", doc).then(function(response) {
+				$scope.categories = response.data;
+			})
+		};
+		
+	});
+</script>
+</html>
